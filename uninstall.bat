@@ -1,3 +1,3 @@
-del "C:\v\" /F /Q
+RD /S /Q "C:\v\" 
 
 SchTasks /Delete /TN “v” /F
